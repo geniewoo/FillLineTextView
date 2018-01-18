@@ -10,7 +10,7 @@
     <com.example.user.filllinetextview.FillLineTextView
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:text="Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!"
+        android:text="Hello World!!! Hello World!!! Hello World!!! Hello World!!! Hello World!!! Hello World!!! Hello World!!!"
         android:textSize="30sp"
         android:textStyle="bold"
         android:gravity="center"/>
